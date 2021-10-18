@@ -141,6 +141,7 @@ body {
 
     .music-info {
         position: absolute;
+        padding: 10px 10px 10px 120px;
     }
 
     .action-btn {
@@ -151,12 +152,19 @@ body {
     }
     
     .action-btn-big {
-        color: #fd5da8;
         font-size: 20px;
     }
 
     .img-container::after {
         bottom: 100%;
+    }
+
+    .img-container {
+        width: 100px;
+    }
+
+    .img-container img {
+        height: 100px;
     }
 }
 
@@ -174,16 +182,23 @@ body {
         font-size: 15px;
         cursor: pointer;
         padding: 5px;
-        margin: 10px 8px;
+        margin: 20px 8px;
     }
     
     .action-btn-big {
-        color: #fd5da8;
         font-size: 20px;
     }
 
     .img-container::after {
         bottom: 100%;
         left: 70%;
+    }
+
+    .img-container {
+        width: 95px;
+    }
+
+    .img-container img {
+        height: 95px;
     }
 }
