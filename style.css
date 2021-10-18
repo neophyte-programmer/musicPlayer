@@ -39,7 +39,7 @@ body {
     border-radius: 50%;
     position: absolute;
     left: 50%;
-    bottom: 50%;
+    bottom: 60%;
     transform: translate(-50%, -50%);
 }
 
