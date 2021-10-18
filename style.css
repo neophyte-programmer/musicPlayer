@@ -205,6 +205,6 @@ body {
 
     .img-container img {
         height: 80px;
-        margin-left: 10px;
+        margin-left: -10px;
     }
 }
