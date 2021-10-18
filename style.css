@@ -180,8 +180,7 @@ body {
     }
 
     .music-info h4 {
-        align-items: center;
-        justify-content: center;
+        align-content: center;
     }
 
     .action-btn {
@@ -201,10 +200,10 @@ body {
     }
 
     .img-container {
-        width: 100px;
+        width: 80px;
     }
 
     .img-container img {
-        height: 100px;
+        height: 80px;
     }
 }
