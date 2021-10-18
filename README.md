@@ -32,4 +32,4 @@ the the index of the array would increment by one and vice versa
 Live Site URL: [Live Site](https://nutifafasplaylist.netlify.app/)
 
 ## How It Looks
-![](https://github.com/neophyte-programmer/musicPlayer/blob/main/page.png?raw=true)
+![](https://github.com/neophyte-programmer/musicPlayer/blob/main/picture.png?raw=true)
