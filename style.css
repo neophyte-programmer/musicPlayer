@@ -176,6 +176,7 @@ body {
 
     .music-info {
         position: absolute;
+        padding: 10px 10px 10px 100px;
     }
 
     .action-btn {
@@ -195,10 +196,10 @@ body {
     }
 
     .img-container {
-        width: 95px;
+        width: 100px;
     }
 
     .img-container img {
-        height: 95px;
+        height: 100px;
     }
 }
