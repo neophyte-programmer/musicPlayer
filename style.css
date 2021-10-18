@@ -174,7 +174,7 @@ body {
         font-size: 15px;
         cursor: pointer;
         padding: 5px;
-        margin: 0 15px;
+        margin: 0 10px;
     }
     
     .action-btn-big {
@@ -184,5 +184,6 @@ body {
 
     .img-container::after {
         bottom: 100%;
+        left: 100%;
     }
 }
