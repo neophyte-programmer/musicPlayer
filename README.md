@@ -29,7 +29,7 @@ the the index of the array would increment by one and vice versa
 </a> <br>
 
 ## Check It Out
-Live Site URL: [Live Site](https://nutifafasbooklist.netlify.app/)
+Live Site URL: [Live Site](https://nutifafasplaylist.netlify.app/)
 
 ## How It Looks
 ![](https://github.com/neophyte-programmer/musicPlayer/blob/main/page.png?raw=true)
