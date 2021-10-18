@@ -7,6 +7,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif; 
     background: linear-gradient(to right, #f699cd, #fd5da8);
+    background: url('https://source.unsplash.com/1600x900/?pink,dark');
     display: flex;
     flex-direction: column;
     align-items: center;
