@@ -176,7 +176,12 @@ body {
 
     .music-info {
         position: absolute;
-        padding: 10px 10px 10px 10px;
+        padding: 10px 10px 10px 20px;
+    }
+
+    .music-info h4 {
+        align-items: center;
+        justify-content: center;
     }
 
     .action-btn {
