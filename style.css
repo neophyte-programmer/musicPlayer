@@ -108,7 +108,6 @@ body {
 
 .music-info h4 {
     margin: 0;
-
 }
 
 .music-container.play .music-info {
@@ -131,4 +130,59 @@ body {
     height: 100%;
     width: 0;
     transition: width 0.1s linear;
+}
+
+/* Mobile Responsive */
+@media screen and (max-width: 768px){
+    .music-container {
+        width: 70%;
+        position: relative;
+    }
+
+    .music-info {
+        position: absolute;
+    }
+
+    .action-btn {
+        font-size: 15px;
+        cursor: pointer;
+        padding: 5px;
+        margin: 0 15px;
+    }
+    
+    .action-btn-big {
+        color: #fd5da8;
+        font-size: 20px;
+    }
+
+    .img-container::after {
+        bottom: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .music-container {
+        width: 70%;
+        position: relative;
+    }
+
+    .music-info {
+        position: absolute;
+    }
+
+    .action-btn {
+        font-size: 15px;
+        cursor: pointer;
+        padding: 5px;
+        margin: 0 15px;
+    }
+    
+    .action-btn-big {
+        color: #fd5da8;
+        font-size: 20px;
+    }
+
+    .img-container::after {
+        bottom: 100%;
+    }
 }
