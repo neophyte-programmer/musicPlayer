@@ -7,7 +7,8 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif; 
     background: linear-gradient(to right, #f699cd, #fd5da8);
-    background: url('https://source.unsplash.com/1600x900/?pink,dark');
+    background: url('https://source.unsplash.com/1600x900/?black');
+    background-size: cover;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -15,7 +16,7 @@ body {
 }
 
 .music-container {
-    background: #fff;
+    background-color: rgba(255,255,255,0.6);
     border-radius: 1rem;
     box-shadow: 0 20px 20px 0 rgba(70,72,102,0.5);
     display: flex;
@@ -32,7 +33,7 @@ body {
 
 .img-container::after {
     content: '';
-    background: #fff;
+    background-color: rgba(255,255,255, 1);
     height: 20px;
     width: 20px;
     border-radius: 50%;
@@ -75,9 +76,9 @@ body {
 }
 
 .action-btn {
-    background-color: white;
+    background-color: rgba(255,255,255,0);
     border: none;
-    color: #f699cd;
+    color: #3a3939;
     font-size: 20px;
     cursor: pointer;
     padding: 10px;
@@ -85,7 +86,7 @@ body {
 }
 
 .action-btn-big {
-    color: #fd5da8;
+    color: #000;
     font-size: 30px;
 }
 
@@ -94,7 +95,7 @@ body {
 }
 
 .music-info {
-    background-color: rgba(255,255,255,0.5);
+    background-color: rgba(255,255,255,0.3);
     border-radius: 1rem 1rem 0 0;
     position: absolute;
     top: 0;
@@ -125,7 +126,7 @@ body {
 }
 
 .progress {
-    background-color: #fd5da8;
+    background-color: #000;
     border-radius: 5px;
     height: 100%;
     width: 0;
