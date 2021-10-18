@@ -196,7 +196,7 @@ body {
     }
 
     .img-container::after {
-        bottom: 50%;
+        bottom: 40%;
         left: 40%;
         height: 15px;
         width: 15px;
